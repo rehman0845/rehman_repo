@@ -27,6 +27,11 @@ namespace FORM1_to_F2_to_F3
 
         public void txtchanged(string str)
         {
+			
+			
+			
+			
+			
             textBox1.Text = str;
         }
     }
